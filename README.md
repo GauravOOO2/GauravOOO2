@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a self-taught passionate Front-End developer from India 🇮🇳 constantly seeking opportunities to learn and contribute to the industry</div>  
+### <div align="center">I'm a self-taught passionate Front-End developer constantly seeking opportunities to learn and contribute to the industry</div>  
   
 
 - 🔭 I’m currently working on [Whether Application](https://github.com/GauravOOO2/Weather-Forecast-Web-Application.git)    
