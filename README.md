@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Whether Application](https://github.com/GauravOOO2/Weather-Forecast-Web-Application.git)    
   
 
-- 🌱 I’m currently learning Node and Express JS    
+- 🌱 I'm advancing my skills in [Node.js](https://nodejs.org/en) and [Express.js](https://expressjs.com/) for professional development.    
   
 
 - ✉️ You can contact me at varmagaurav840@gmail.com    
