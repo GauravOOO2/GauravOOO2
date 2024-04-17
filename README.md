@@ -28,7 +28,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 
 ## My Skill Set  
-<tr><td valign="top" width="33%">
+<tr><td valign="top" width="40%">
 
 
 <div align="center">  
