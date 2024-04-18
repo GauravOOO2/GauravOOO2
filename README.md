@@ -6,7 +6,7 @@
 ### <div align="center">I'm a self-taught passionate Front-End developer constantly seeking opportunities to learn and contribute to the industry</div>  
   
 
-- 🔭 I’m currently working on [Whether Application](https://github.com/GauravOOO2/Weather-Forecast-Web-Application.git)    
+- 🔭 I’m currently working on [Weather Application](https://github.com/GauravOOO2/Weather-Forecast-Web-Application.git)    
   
 
 - 🌱 I'm advancing my skills in [Node.js](https://nodejs.org/en) and [Express.js](https://expressjs.com/) for professional development.    
