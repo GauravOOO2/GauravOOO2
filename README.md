@@ -12,7 +12,7 @@
 - 🌱 I'm advancing my skills in [Node.js](https://nodejs.org/en) and [Express.js](https://expressjs.com/) for professional development.    
   
 
-- ✉️ You can contact me at [varmagaurav840@gmail.com](varmagaurav840@gmail.com)    
+- ✉️ You can contact me at [varmagaurav840@gmail.com]
   
 
 - 🖥️️ See my portfolio at [Gaurav's Portfolio](https://gauravooo2.github.io/Gaurav_portfolio/)    
