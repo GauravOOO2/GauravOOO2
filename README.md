@@ -26,7 +26,6 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 <br/>  
 
-![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
 
 ## My Skill Set  
 <tr><td valign="top" width="33%">
@@ -64,6 +63,12 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
   
 ----
 
