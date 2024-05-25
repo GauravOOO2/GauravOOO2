@@ -68,15 +68,9 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 ## GitHub Stats
 
-
-
-<tr>
-  <td>
-    <p  ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravOOO2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="praj86" /></p
-
+<p  ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravOOO2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="praj86" /></p
+<br/>
 <p  >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravOOO2&show_icons=true&theme=tokyonight&locale=en" alt="praj86" /></p>
-  </td>
-</tr>
 
 ![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
 
