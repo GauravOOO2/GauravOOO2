@@ -26,7 +26,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 <br/>  
 
-![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=green)
+![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
 
 ## My Skill Set  
 <tr><td valign="top" width="33%">
