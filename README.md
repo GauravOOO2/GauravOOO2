@@ -74,7 +74,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 ![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravOOO2&theme=dark" alt="praj86" /></p>
+<p  ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravOOO2&theme=dark" alt="praj86" /></p>
 
 ----
 
