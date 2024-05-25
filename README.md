@@ -66,12 +66,13 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 <br/>  
 
+## My Stats
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GauravOOO2)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravOOO2&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravOOO2&hide=javascript,css,scss,html&theme=tokyonight)
 
 ----
 
