@@ -68,9 +68,9 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 ## GitHub Stats
 <p align="" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravOOO2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="GauravOOO2" /></p>
-<br/>
+<!-- <br/> -->
 <p align=""  >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravOOO2&show_icons=true&theme=tokyonight&locale=en" alt="GauravOOO2" /></p>
-<br/>
+<!-- <br/> -->
 <p align=""  ><img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravOOO2&theme=dark" alt="GauravOOO2" /></p>
 
 
