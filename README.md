@@ -26,6 +26,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 <br/>  
 
+![](https://komarev.com/ghpvc/?username=GauravOOO2)
 
 
 ## My Skill Set  
@@ -48,7 +49,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 </td><td valign="top" width="33%">
 
-![](https://komarev.com/ghpvc/?username=GauravOOO2)
+
 
 
 </td></tr> 
