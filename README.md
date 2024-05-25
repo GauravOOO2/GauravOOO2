@@ -66,5 +66,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 </div>  
 
 ----
-![](https://komarev.com/ghpvc/?username=GauravOOO2)
-<div></div>
+
+<div>
+  ![](https://komarev.com/ghpvc/?username=GauravOOO2)
+</div>
