@@ -64,8 +64,6 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 </a>  
 </div>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GauravOOO2&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 ![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
