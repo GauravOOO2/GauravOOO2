@@ -71,7 +71,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 
 ![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravOOO2&hide=javascript,css,scss,html&theme=tokyonight)
 
 ----
 
