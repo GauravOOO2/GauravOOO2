@@ -53,7 +53,7 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 </td></tr> 
 
 <br/>  
-
+![](https://komarev.com/ghpvc/?username=GauravOOO2)
 
 ## Connect with me  
 <div align="center">
@@ -64,9 +64,8 @@ As a beginner in front-end web development, I have a solid understanding of CSS 
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
+  
 ----
 
-<div>
-  ![](https://komarev.com/ghpvc/?username=GauravOOO2)
-</div>
+
+
