@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm a self-taught passionate Front-End developer constantly seeking opportunities to learn and contribute to the industry</div>  
+### <div align="center">I'm a self-taught passionate Web developer constantly seeking opportunities to learn and contribute to the industry</div>  
   
 
-- 🔭 I’m currently working on a simple [SignUp Form CSS ](https://github.com/GauravOOO2/SignUp-CSS.git)    
+- 🔭 I’m currently working on a simple [Next.js Project ](https://nextjs.org/)    
   
 
 - 🌱 I'm advancing my skills in Deep [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript DOM](https://developer.mozilla.org/en-US/docs/Web/javascript). and fullstack in [MERN stack](https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/) with [Next.js](https://nextjs.org/) for professional development.    
@@ -21,7 +21,7 @@
 
 
 ### More about me:     
-As a beginner in front-end web development, I have a solid understanding of CSS libraries and frameworks, enabling me to effectively structure web pages and style content. My proficiency in JavaScript allows me to create interactive elements and manage web page behavior. Utilizing React.js and API integrations, I build dynamic user interfaces seamlessly, utilizing components and efficiently managing state with Redux. Please feel free to explore my portfolio for more insights into my projects.   
+As a web development, I have a solid understanding of CSS libraries and frameworks, enabling me to effectively structure web pages and style content. My proficiency in JavaScript and its Libraries allows me to create interactive elements and manage web page behavior. Utilizing React.js and API integrations, I build dynamic user interfaces seamlessly, utilizing components and efficiently managing state with Redux. Please feel free to explore my portfolio for more insights into my projects.   
   
 
 <br/>  
