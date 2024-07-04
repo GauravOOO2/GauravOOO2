@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a self-taught passionate Web developer constantly seeking opportunities to learn and contribute to the industry</div>  
+### <div align="center"> a self-taught passionate Web developer constantly seeking opportunities to learn and contribute to the industry</div>  
   
 
 - 🔭 I’m currently working on a simple [Next.js Project ](https://nextjs.org/)    
