@@ -21,7 +21,7 @@
 
 
 ### More about me:     
-As a web development, I have a solid understanding of CSS libraries and frameworks, enabling me to effectively structure web pages and style content. My proficiency in JavaScript and its Libraries allows me to create interactive elements and manage web page behavior. Utilizing React.js and API integrations, I build dynamic user interfaces seamlessly, utilizing components and efficiently managing state with Redux. Please feel free to explore my portfolio for more insights into my projects.   
+As a web development with a solid understanding of CSS libraries and frameworks, enabling me to effectively structure web pages and style content. My proficiency in JavaScript and its Libraries allows me to create interactive elements and manage web page behavior. Utilizing React.js and API integrations, I build dynamic user interfaces seamlessly, utilizing components and efficiently managing state with Redux. Please feel free to explore my portfolio for more insights into my projects.   
   
 
 <br/>  
