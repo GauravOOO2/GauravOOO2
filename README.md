@@ -6,7 +6,7 @@
 ### <div align="center">self-taught passionate Web developer constantly seeking opportunities to learn and contribute to the industry</div>  
   
 
-- 🔭 I’m currently working on [CI/CD pipelines](https://www.geeksforgeeks.org/what-is-ci-cd/)    
+- 🔭 I’m currently working on DSA 
   
 
 - 🌱 I'm advancing my skills in Deep [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript DOM](https://developer.mozilla.org/en-US/docs/Web/javascript). and fullstack in [MERN stack](https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/) with [Next.js](https://nextjs.org/) for professional development.    
