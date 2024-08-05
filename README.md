@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">self-taught passionate Web developer constantly seeking opportunities to learn and contribute to the industry</div>  
+### <div align="center">self-taught passionate Web developer constantly seeking opportunities to learn and contribute to the industry.</div>  
   
 
 - 🔭 I’m currently working on DSA 
