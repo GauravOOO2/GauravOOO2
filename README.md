@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on DSA 
   
 
-- 🌱 I'm advancing my skills in Deep [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript DOM](https://developer.mozilla.org/en-US/docs/Web/javascript). and fullstack in [MERN stack](https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/) with [Next.js](https://nextjs.org/) for professional development.    
+- 🌱 I'm advancing my skills in full-stack using [MERN stack](https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/) with [Next.js](https://nextjs.org/) for professional development.    
   
 
 - ✉️ You can contact me at varmagaurav840@gmail.com
@@ -21,7 +21,7 @@
 
 
 ### More about me:     
-As a web development with a solid understanding of CSS libraries and frameworks, enabling me to effectively structure web pages and style content. My proficiency in JavaScript and its Libraries allows me to create interactive elements and manage web page behavior. Utilizing React.js and API integrations, I build dynamic user interfaces seamlessly, utilizing components and efficiently managing state with Redux. Please feel free to explore my portfolio for more insights into my projects.   
+As a web developer with a solid understanding of CSS libraries and frameworks, enable me to effectively structure web pages and style content. My proficiency in JavaScript and its Libraries allows me to create interactive elements and manage web page behavior. Utilizing React.js and API integrations, I build dynamic user interfaces seamlessly, using components and efficiently managing state with Redux. Please feel free to explore my portfolio for more insights into my projects.   
   
 
 <br/>  
