@@ -21,7 +21,7 @@
 
 
 ### More about me:     
-As a web developer with a solid understanding of CSS libraries and frameworks, enable me to effectively structure web pages and style content. My proficiency in JavaScript and its Libraries allows me to create interactive elements and manage web page behavior. Utilizing React.js and API integrations, I build dynamic user interfaces seamlessly, using components and efficiently managing state with Redux. Please feel free to explore my portfolio for more insights into my projects.   
+I am a dynamic full-stack developer with expertise in building secure, scalable web applications using modern frameworks such as React, Node.js, and Next.js. I have proven experience in AI-driven projects, RESTful API design, and database management, delivering optimized solutions that enhance user experience and system performance. Additionally, I am adept at leveraging cloud services and CI/CD pipelines to ensure efficient, zero-downtime deployments
   
 
 <br/>  
