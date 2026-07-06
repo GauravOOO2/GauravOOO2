@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Gaurav Bannar.png" width="100%" />
+<img src="Gaurav_Bannar.png" width="100%" />
 
 # Hi, I'm Gaurav 👋
 
