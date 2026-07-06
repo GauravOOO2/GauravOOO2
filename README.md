@@ -4,7 +4,7 @@
 
 # Hi, I'm Gaurav 👋
 
-### Software Engineer passionate about building scalable backend systems, distributed architectures, and production-ready applications.
+### Software Engineer passionate about building scalable backend systems, distributed architectures, and production ready applications.
 
 </div>
 
@@ -16,9 +16,9 @@ I enjoy solving engineering problems that go beyond writing features.
 
 What excites me most is designing systems that remain simple to understand while being easy to scale, monitor, and extend as products grow.
 
-Over the last few years I've been focused on understanding not only **how to build applications**, but also **how production systems actually work**—from APIs and databases to cloud infrastructure, observability, deployment pipelines, and distributed system design.
+Over the last few years I've been focused on understanding not only **how to build applications**, but also **how production systems actually work** from APIs and databases to cloud infrastructure, observability, deployment pipelines, and distributed system design.
 
-Currently I'm deep-diving into:
+Currently I'm deep diving into:
 
 - 📚 Data Structures & Algorithms
 - ⚙️ Distributed Systems
@@ -136,4 +136,4 @@ GitHub Streak
 
 ---
 
-> *"I don't just enjoy building applications. I enjoy understanding why large-scale systems are designed the way they are—and applying those principles to the software I build."*
+> *"I don't just enjoy building applications. I enjoy understanding why large scale systems are designed the way they are and applying those principles to the software I build."*
