@@ -117,8 +117,20 @@ I believe good software isn't measured by how quickly it's built, but by how con
 
 ---
 
-## DevOps & Cloud
 
+
+## Messaging & Event Streaming
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/> Apache Kafka &nbsp;&nbsp;
+
+🐂 BullMQ
+
+</p>
+
+## DevOps & Cloud
+---
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> AWS &nbsp;&nbsp;
