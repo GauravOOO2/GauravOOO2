@@ -128,11 +128,15 @@ https://www.linkedin.com/in/gaurav-varm-oo21/
 
 <!-- Your existing stats -->
 
-```
-Top Languages
-GitHub Stats
-GitHub Streak
-```
+<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=GauravOOO2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="GauravOOO2" /></p>
+<p align="center"  >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GauravOOO2&show_icons=true&theme=tokyonight&locale=en" alt="GauravOOO2" /></p>
+<p align="center"  ><img src="https://github-readme-streak-stats.herokuapp.com/?user=GauravOOO2&theme=dark" alt="GauravOOO2" /></p>
+
+<div align="center" >
+
+  ![](https://komarev.com/ghpvc/?username=GauravOOO2&style=for-the-badge&color=orange)
+
+</div>
 
 ---
 
