@@ -182,7 +182,7 @@ I believe good software isn't measured by how quickly it's built, but by how con
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> Figma
 
 </p>
----
+
 
 ## 📌 Current Focus
 
